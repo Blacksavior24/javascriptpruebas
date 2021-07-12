@@ -31,3 +31,5 @@ console.log("El perimetro del circulo es "+ perimetrocirculo+"cm");
 const areacirculo = pi*radiocirculo*radiocirculo;
 console.log("El area del circulo es "+ areacirculo+"cm");
 console.groupEnd();
+
+//const, funciones y 
