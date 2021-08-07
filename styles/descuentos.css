@@ -61,6 +61,9 @@ button {
     letter-spacing: 1px;
     margin: 10px 0px;
 }
+button:hover {
+    background-color: red;
+}
 .footer{
     background-color: rgb(119, 23, 23);
     border-top: 50px;
